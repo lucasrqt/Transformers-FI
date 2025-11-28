@@ -212,3 +212,5 @@ __marimo__/
 ^transformers_fi/results/gpt2/
 ^transformers_fi/results/vit/
 ^transformers_fi/results/swin/
+activation_analysis/data/plots
+*parsed_results*
