@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# LATS specific ignores
+*gpt2*/
+^transformers_fi/results/bart/
+^transformers_fi/results/gpt2/
+^transformers_fi/results/vit/
+^transformers_fi/results/swin/
