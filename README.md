@@ -9,6 +9,13 @@ This repository contains 2 parts:
 ## Reproducability
 To allow reproducability of the different figures, all the needed data are available on this repository.
 
+First, you need to clone the repository.
+
+```bash
+git clone https://github.com/lucasrqt/Transformers-FI.git
+cd Transformers-FI/
+```
+
 ### Figures 2 and 3
 The data needed for Figures 2 and 3 are stored in `activation_analysis/data/`.
 
